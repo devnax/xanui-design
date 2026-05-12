@@ -28,5 +28,12 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/devnax/xanui-design.git"
+  },
+  "dependencies": {
+    "@xanui/core": "^1.3.17",
+    "@xanui/icons": "^1.1.12",
+    "@xanui/ui": "^1.2.12",
+    "react-state-bucket": "^1.2.18",
+    "xanv": "^1.1.25"
   }
 }
